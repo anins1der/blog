@@ -114,4 +114,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-show_excerps: true
+show_excerpts: true
