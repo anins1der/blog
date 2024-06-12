@@ -1,4 +1,4 @@
-[website link](anins1der.github.io/blog)
+[website link](https://anins1der.github.io/blog/)
 
 # Minimal Mistakes remote theme starter
 
