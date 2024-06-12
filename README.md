@@ -1,29 +1,33 @@
 [website link](https://anins1der.github.io/blog/)
 
-# Minimal Mistakes remote theme starter
+# how did i do it?
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+simple :)
+click [**use this template that i used**](https://github.com/mmistakes/mm-github-pages-starter/generate) or take a look at ["Minimal Mistakes Jekyll theme"](https://github.com/mmistakes/minimal-mistakes).
 
-Contains basic configuration to get you a site with:
+it has a lot of these:
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+- dummy posts
+- sample top navigation
+- a sidebar (wow)
+- footer links (links at the bottom of the page)
+- paginated home page (w h a t ?)
+- archive pages for posts grouped by year, category, and tag (noice)
+- sample about page
+- sample 404 page
+- site-wide search
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+edit dummy contents with your own and [configure them as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
 ---
 
-## Troubleshooting
+# Troubleshooting
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+i srsly don't know what im doing, so reat these:
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+"If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:"
+
+- ["Ruby 101"](https://jekyllrb.com/docs/ruby-101/)
+- ["Setting up a Jekyll site with GitHub Pages"](https://jekyllrb.com/docs/github-pages/)
+- ["Configuring GitHub Metadata"](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
