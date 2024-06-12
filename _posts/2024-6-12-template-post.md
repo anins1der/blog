@@ -18,12 +18,17 @@ lol jk
 so i need to add this(`{: .notice}`) to end of the pharagraph, huh?
 k lemme try all of these:
 
-actually, this is a pharagraph. but adding `{: .notice}` end of it caused this cool look :){: .notice}
-this is the "*primary*" version of above? what?? it's just darker :'({: .notice--primary}
-**info**: 2+2 is 5, actually :)){: .notice--info}
-**warning!**: you're SO KOOOOLLL!!! {: .notice--warning}
-ooohh i just launched a **nuke** to the moon and this happened :/ {: .notice--danger}
-and i *succesfully* **nuked** the cheesy moon :D {: .notice--success}
+<p>actually, this is a pharagraph. but adding `{: .notice}` end of it caused this cool look :) {: .notice}</p>
+
+<p>this is the "*primary*" version of above? what?? it's just darker :'({: .notice--primary}</p>
+
+<p>**info**: 2+2 is 5, actually :)){: .notice--info}</p>
+
+<p>**warning!**: you are SO KOOOOLLL!!! {: .notice--warning}</p>
+
+<p>ooohh i just launched a **nuke** to the moon and this happened :/ {: .notice--danger}</p>
+
+<p>and i *succesfully* **nuked** the cheesy moon :D {: .notice--success}</p>
 <><><>
 you should use html with `markdownify` and you're good to go!
 
