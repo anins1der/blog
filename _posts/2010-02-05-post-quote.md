@@ -3,7 +3,7 @@ title: "Post: Quote"
 categories:
   - blog
 tags:
-  - post Formats
+  - post formats
   - quote
 ---
 
