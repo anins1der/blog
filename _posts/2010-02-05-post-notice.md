@@ -29,7 +29,7 @@ When using Kramdown `{: .notice}` can be added after a sentence to assign the `.
 **Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
 {: .notice--success}
 
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
+you should use html with `markdownify` and you're good to go!
 
 ```html
 {% raw %}{% capture notice-2 %}
@@ -42,6 +42,8 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 <div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
 ```
 
+which does this:
+
 {% capture notice-2 %}
 #### New Site Features
 
@@ -53,7 +55,7 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
   {{ notice-2 | markdownify }}
 </div>
 
-Or you could skip the capture and stick with straight HTML.
+or i can just skip the capture and stick with straight HTML.
 
 ```html
 <div class="notice">
@@ -61,6 +63,8 @@ Or you could skip the capture and stick with straight HTML.
   <p>A basic message.</p>
 </div>
 ```
+
+which does this:
 
 <div class="notice">
   <h4>Message</h4>
