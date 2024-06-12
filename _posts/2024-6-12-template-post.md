@@ -87,7 +87,7 @@ and i just need to insert a `>` at the beginning of the sentence
 
 > woooohooooooooo
 
-> a quote in a notice :D {: .notice--success}
+> a quote in a notice :D
 
 and do not **EVER** try to rickroll someone (or else >:[)
 only i can rickroll[:](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DdQw4w9WgXcQ&ved=2ahUKEwifouzLptaGAxUUDHkGHTISBzQQ78AJegQIHBAB&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
