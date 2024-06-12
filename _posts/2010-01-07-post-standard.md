@@ -2,9 +2,9 @@
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
-  - Post Formats
+  - post formats
   - readability
   - standard
 ---
