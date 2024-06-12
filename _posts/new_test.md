@@ -8,6 +8,7 @@ tags:
   - blog formatting
   - template
 ---
+# title has to be in **YYYY-MM-DD-name.file-extension** format or it wouldn't work
 
 # notices is a great way to tell smth about a thing!
 
