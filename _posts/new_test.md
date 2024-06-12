@@ -1,5 +1,6 @@
 ---
 title: "template post that i will use"
+excerpt_seperator: "<><><>"
 categories:
   - blog
   - template
