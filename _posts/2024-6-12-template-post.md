@@ -39,7 +39,7 @@ ooohh i just launched a **nuke** to the moon and this happened :/
 and i *succesfully* **nuked** the cheesy moon :D
 {: .notice--success}
 
-you should use html with `markdownify` and you're good to go!
+you can use html with `markdownify` and you're good to go!
 
 ```html
 {% raw %}{% capture notice-2 %}
