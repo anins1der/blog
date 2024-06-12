@@ -13,9 +13,11 @@ tags:
 # notices is a great way to tell smth about a thing!
 
 how i need to do this? (the answer is **yes**)
+
 lol jk
 
 so i need to add this(`{: .notice}`) to end of the pharagraph, huh?
+
 k lemme try all of these:
 
 actually, this is a pharagraph. but adding `{: .notice}` end of it caused this cool look :)
