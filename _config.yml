@@ -57,20 +57,20 @@ plugins:
 author:
   name   : "anins1der"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "i created this ness, i guess?h"
   links:
-    - label: "Website"
+    - label: "sub to me on youtube"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://yt.be/@anins1der?sub_confirmation=1"
+    - label: "friend me on discord"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://discord.com/invite/h7n5cyWw"
+    - label: "my empty gitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/anins1der"
-    - label: "Instagram"
+    - label: "duckduckgo 4 u :)"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://start.duckducko.com"
 
 footer:
   links:
