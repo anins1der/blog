@@ -25,7 +25,7 @@ k lemme try all of these:
 actually, this is a pharagraph. but adding `{: .notice}` end of it caused this cool look :)
 {: .notice}
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
+[click to go top of the page](#)
 {: .notice}
 
 this is the "*primary*" version of above? what?? it's just darker :'(
@@ -99,8 +99,10 @@ only i can rickroll[:](https://www.google.com/url?sa=t&source=web&rct=j&opi=8997
 # you can use both markdown and html in harmony thanks to `kramdown`!
 
 ## so i can add a direct link to `YAML frontmatter` of any post. and it shows at:
-  1. near of the title in homepage
+  1. on the title in homepage(click the chain to read the blog post)
   2. bottom of the post
+
+## and btw if you add two links to frontmatter instead of one, **first** one will be the link that's on the title of the post. **second** one appears at the bottom
 
 you can add a `#` to go to top of the page
 [go up](#)
