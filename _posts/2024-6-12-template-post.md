@@ -71,16 +71,16 @@ or i can just do it in "just HTML" style :D
 
 ```html
 <div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
+  <h4>message</h4>
+  <p>a basic message lol</p>
 </div>
 ```
 
 which does this:
 
 <div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
+  <h4>message</h4>
+  <p>a basic message lol</p>
 </div>
 
 # quotes/notes/captions/whatever tf is this is a **great way** to show smth, too!
@@ -89,7 +89,7 @@ and i just need to insert a `>` at the beginning of the sentence
 
 > woooohooooooooo
 
-> a quote in a notice :D
+> i can't do a quote in a notice :D
 
 and do not **EVER** try to rickroll someone (or else >:[)
 only i can rickroll[:](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DdQw4w9WgXcQ&ved=2ahUKEwifouzLptaGAxUUDHkGHTISBzQQ78AJegQIHBAB&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
