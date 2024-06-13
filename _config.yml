@@ -96,6 +96,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_excerpts: true
   # _pages
   - scope:
       path: "_pages"
@@ -111,4 +112,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-show_excerpts: true
