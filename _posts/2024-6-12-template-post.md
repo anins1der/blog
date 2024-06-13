@@ -7,6 +7,7 @@ categories:
 tags:
   - blog formatting
   - template
+link: http://www.example.com
 ---
 # title has to be in **YYYY-MM-DD-name.file-extension** format or it wouldn't work
 
@@ -95,5 +96,11 @@ and do not **EVER** try to rickroll someone (or else >:[)
 only i can rickroll[:](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DdQw4w9WgXcQ&ved=2ahUKEwifouzLptaGAxUUDHkGHTISBzQQ78AJegQIHBAB&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
 
 # you can use both markdown and html in harmony thanks to `kramdown`!
+<><><>
+## so i can add a direct link to `YAML frontmatter` of any post. and it shows at:
+  1. near of the title in homepage
+  2. bottom of the post
 
+you can add a `#` to go to top of the page
 [go up](#)
+[go to anywhere?](##)
