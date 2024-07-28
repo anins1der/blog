@@ -1,10 +1,10 @@
 ---
 title: "soundboard test lol (md)"
 categories:
-  - html
+  - md
   - blog formatting
 tags:
-  - html
+  - md
   - test
 ---
 <iframe width="110" height="200" src="https://www.myinstants.com/instant/error-soundss-25534/embed/" frameborder="0" scrolling="no"></iframe>
