@@ -1,5 +1,4 @@
 ---
-permalink: /nshell/
 title: "nutshell!"
 excerpt_seperator: "<><><>"
 categories:
