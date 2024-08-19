@@ -16,9 +16,9 @@
 title: blog site… kinda
 email: "nuh uh"
 description: "how did you found this mess?"
-twitter_username: "i don't use"
+twitter_username: "i don't use it lol"
 github_username: "anins1der"
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -60,12 +60,12 @@ author:
   bio    : "i created this mess, i guess?"
   links:
     - label: "sub to me on youtube"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-brands fa-youtube"
       url: "https://youtube.com/@anins1der?sub_confirmation=1"
     - label: "friend me on discord"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-discord"
       url: "https://discord.com/invite/h7n5cyWw"
-    - label: "my empty github"
+    - label: "my empty github *lol*"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/anins1der"
 
