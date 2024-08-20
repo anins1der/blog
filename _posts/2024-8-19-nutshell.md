@@ -16,7 +16,7 @@ for example:
 
 this is [:nutshell](https://ncase.me/nutshell/#). get it??
 
-:this header is supposed to be, uh function as you expect??
+: this header is supposed to be, uh function as you expect??
 bruh -_-
 
 ## yea thats it for now
