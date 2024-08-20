@@ -45,8 +45,7 @@ would you prefer this:
   <BUTTON TYPE="button" ONCLICK="alert(\"fun fact:\n\ncats only meow when they are cute kittens. however, they learn that us (humans) find this interesting and they keep meowing to us. they only meow because it it interesting.\n/^---^\\ \n(· w ·)">meowseful info!</BUTTON>
 </script>
 
-or this:
-
+or this: 
 ## : meowseful info:
 cats only meow when they are cute kittens. however, they learn that us *humans* find this interesting and they keep meowing to us. big ones only meow because it is interesting for us.
 
