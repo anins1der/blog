@@ -47,8 +47,8 @@ would you prefer this:
 
 or this:
 
-## meowseful info:
+## : meowseful info
 cats only meow when they are cute kittens. however, they learn that us *humans* find this interesting and they keep meowing to us. big ones only meow because it is interesting for us.
 
 #### : i swear…
-i **suck** at the ~~proggramming~~ everything {: .notice--warning}
+i **suck** at the ~~proggramming~~ everything
