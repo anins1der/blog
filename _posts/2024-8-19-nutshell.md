@@ -9,6 +9,11 @@ tags:
   - template
 ---
 <script src="https://cdn.jsdelivr.net/gh/ncase/nutshell/nutshell.min.js"></script>
+<script>
+Nutshell.setOptions({
+    dontEmbedHeadings: true,
+});
+</script>
 
 ## q: what is dis?
 ## a: a tool that embeds info directly into the words.
@@ -16,10 +21,10 @@ for example:
 
 this is [:nutshell](https://ncase.me/nutshell/#). get it??
 
-: this header is supposed to be, uh function as you expect??
+:x this header is supposed to be, uh function as you expect??
 
-bruh -_-
+yeah i am serious
+bruh it does(nt) work -_-
 
-## yea thats it for now
-
-goodbye :)
+## i bet that *explanation* didnt work very well :/
+working on it…
