@@ -8,7 +8,6 @@ tags:
   - blog formatting
   - template
 link: http://www.example.com
-link: https://start.duckduckgo.com
 ---
 # title has to be in **YYYY-MM-DD-name.file-extension** format or it wouldn't work
 
@@ -28,7 +27,7 @@ actually, this is a pharagraph. but adding `{: .notice}` end of it caused this c
 [click to go top of the page](#)
 {: .notice}
 
-this is the "*primary*" version of above? what?? it's just darker :'(
+this is the "*primary*" version of above? what?? it's just more *bluish* :'(
 {: .notice--primary}
 
 **info**: 2+2 is 5, actually :))
@@ -102,7 +101,6 @@ only i can rickroll[:](https://www.google.com/url?sa=t&source=web&rct=j&opi=8997
   1. on the title in homepage(click the chain to read the blog post)
   2. bottom of the post
 
-## and btw if you add two links to frontmatter instead of one, **first** one will be the link that's on the title of the post. **second** one appears at the bottom
-
 you can add a `#` to go to top of the page
-[go up](#)
+
+[so go up lol](#)
