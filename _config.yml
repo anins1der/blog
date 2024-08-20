@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: [wip] personal blog
+title: im booooored
 email: "nuh uh"
 description: "how did you found this mess?"
 twitter_username: "i don't use it lol"
@@ -63,6 +63,9 @@ author:
       icon: "fa-brands fa-youtube"
       url: "https://youtube.com/@anins1der?sub_confirmation=1"
     - label: "friend me on discord"
+      icon: "fa-brands fa-discord"
+      url: "https://discord.com/invite/z5gAuCrg"
+    - label: "this guy wanted his own place, soo-"
       icon: "fa-brands fa-discord"
       url: "https://discord.com/invite/h7n5cyWw"
     - label: "my empty github *lol*"
