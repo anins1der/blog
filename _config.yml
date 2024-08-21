@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "anins1der"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "i created this mess, i guess?"
+  bio    : "errors = more code²"
   links:
     - label: "sub to me on youtube"
       icon: "fa-brands fa-youtube"
