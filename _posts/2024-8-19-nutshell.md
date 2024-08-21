@@ -42,7 +42,7 @@ imagine you are building a website about [:cats](https://en.m.wikipedia.org/wiki
 
 would you prefer this: 
 <script type="text/javascript">
-  <BUTTON TYPE="button" ONCLICK="alert(\"fun fact:\n\ncats only meow when they are cute kittens. however, they learn that us (humans) find this interesting and they keep meowing to us. they only meow because it it interesting.\n/^---^\\ \n(· w ·)">meowseful info!</BUTTON>
+  <button> type="button" ONCLICK="alert(\"fun fact:\n\ncats only meow when they are cute kittens. however, they learn that us (humans) find this interesting and they keep meowing to us. they only meow because it it interesting.\n/^---^\\ \n(· w ·)">meowseful info!</BUTTON>
 </script>
 
 or this: 
