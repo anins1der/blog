@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: im booooored
 email: "nuh uh"
-description: "how did you found this mess?"
+description: "🎵im just a boooored guy who experiements abou web development🎵"
 twitter_username: "i don't use it lol"
 github_username: "anins1der"
 minimal_mistakes_skin: dark
@@ -74,7 +74,7 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
+    - label: "github (yaaaay -_-)"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/anins1der"
 
