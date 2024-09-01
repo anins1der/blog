@@ -15,92 +15,91 @@ anyways, have a good day :D
 
 and please, just tell me bugs and errors :D
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+what are you doing here lol
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
+⠀
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# : best frends:
+## best frends:
 |nickname|yt channel|about|
 |:--|---|---|
 |M7Y4|[@M7Y4](https://youtube.com/@m7y4?si=gCFX8lJRRtc2o9cF)|content creator. makes Minecraft videos. best boi lol|
