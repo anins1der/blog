@@ -106,7 +106,7 @@ you can add a `#` to go to top of the page
 [so go up lol](#)
 
 # buttons??
-<button onclick="myFunction()">Try it</button>
+<button onclick="myFunction()">gggg</button>
 
 <script>
 function myFunction() {
