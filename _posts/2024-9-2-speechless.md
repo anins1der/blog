@@ -1,7 +1,12 @@
 ---
-permalink: /why/
 title: "why"
 excerpt_seperator: "<><><>"
+tags:
+  - blog
+  - pain
+categories:
+  - blog
+  - pain
 header:
   video: 
     id: JugmQIMPhKY
