@@ -1,4 +1,5 @@
 ---
+permalink: /why/
 title: "why"
 excerpt_seperator: "<><><>"
 header:
