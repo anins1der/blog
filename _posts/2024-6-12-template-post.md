@@ -104,3 +104,12 @@ only i can rickroll[:](https://www.google.com/url?sa=t&source=web&rct=j&opi=8997
 you can add a `#` to go to top of the page
 
 [so go up lol](#)
+
+# buttons??
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  alert(":[");
+}
+</script>
