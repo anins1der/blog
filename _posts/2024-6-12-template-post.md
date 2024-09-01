@@ -115,4 +115,5 @@ function myFunction() {
 </script>
 
 
-<button onclick="alert(im an button that gives alert box to do smth. im also written in just 1 line of code! ^v^)">one-liner button</button>
+<button onclick="alert(im an button that gives alert box to do smth. im also written in just 1 line of code! ^v^")">one-liner button</button>
+
