@@ -7,3 +7,5 @@ main:
     url: /tags/
   - title: "about me"
     url: /about/
+  - title: "404 screen [debug mode]"
+    url: /404/
