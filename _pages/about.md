@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "about"
 ---
 <script src="https://cdn.jsdelivr.net/gh/ncase/nutshell/nutshell.min.js"></script>
 <script>
