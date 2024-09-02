@@ -1,4 +1,6 @@
 main:
+  - title: "404"
+    url: /404/
   - title: "posts (because yes)"
     url: /posts/
   - title: "categories"
@@ -7,5 +9,3 @@ main:
     url: /tags/
   - title: "about me"
     url: /about/
-  - title: "404 screen [debug mode]"
-    url: /404/
