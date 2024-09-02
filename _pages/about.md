@@ -177,8 +177,8 @@ you can always turn back (and you shouldn't)
 
 ⠀
 
-⠀
-
+warning: messed up andrew is ahead
+(im too late -_- )
 ⠀
  o    → his name is "andrew"
 /|\     you thought his name was "bob", didnt you?
