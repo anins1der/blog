@@ -42,7 +42,9 @@ uh
 
 you can dm me anytime if you have an issue/if you need help/if you want. i would appreciate that.
 
-~~*i just need someone to* **touch** *me once in a while*~~ i just need some *:)*
+~~*i just need someone to* **touch** *me once in a while*~~
+
+i just need some *friend that says ":)"*
 
 ⠀⠀⠀⠀-anins1der
 
