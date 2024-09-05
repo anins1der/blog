@@ -10,9 +10,9 @@ Nutshell.setOptions({
 </script>
 
 # : work in progress
-why r u here? -_-
+why r u here bruh -_-
 
-## : best frends:
+## : best frends (who even cares):
 
 | nickname | yt channel | about |
 |----------|----------|----------|
