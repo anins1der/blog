@@ -12,6 +12,9 @@ Nutshell.setOptions({
 # : work in progress
 why r u here bruh -_-
 
+## : open dis (for *arctic foxes*)
+[***help me***](https://anins1der.github.io/smiley/)
+
 ## : best frends (who evencares):
 
 | nickname | yt channel | about |
