@@ -15,7 +15,7 @@ why r u here bruh -_-
 ## : open dis (for *arctic foxes*)
 [***help me***](https://anins1der.github.io/blog/smiley/)
 
-## : best frends (who evencares):
+## : best frends (who even cares):
 
 | nickname | yt channel | about |
 |----------|----------|----------|
