@@ -12,7 +12,7 @@ Nutshell.setOptions({
 # : work in progress
 why r u here bruh -_-
 
-## : best frends (who even cares):
+## : best frends (who evencares):
 
 | nickname | yt channel | about |
 |----------|----------|----------|
