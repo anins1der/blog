@@ -11,7 +11,7 @@ but… read it once
 
 here is a thing you didn't notice:
 
-there is a "**:)**" mask i wear **all the time**, so you wouldn't see "*sad anins1der*"[^1] or smth
+there is a "**:)**" mask i wear **all the time**, so you wouldn't see "*sad anins1der*"[^1] ⁽ᶜˡⁱᶜᵏ ᵗʰⁱˢ ⁿᵘᵐᵇᵉʳ⁾ or smth
 
 i guess that "**:)**" is, slowly but surely, shredding into smol pieces *day by day*
 
@@ -48,4 +48,4 @@ i just need some *friend that says ":)"*
 
 ⠀⠀⠀⠀-anins1der
 
-[^1]: did you know that this idiot has emotions? ground-breaking!
+[^1]: did you know that this idiot has emotions? ground-breaking! ⁽ᶜˡⁱᶜᵏ ᵗᵒ ᵗʰᵉ ᵃʳʳᵒʷ ᵗᵒ ᵍᵒ ᵇᵃᶜᵏ⁾
