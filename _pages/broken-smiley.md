@@ -6,11 +6,7 @@ title: "broken *smiley* mask"
 you won't care, i know
 
 but… read it once
-***
-…do i look fine?
 
-i am (not) fine
-***
 # i need your help-
 
 here is a thing you didn't notice:
