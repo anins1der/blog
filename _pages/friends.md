@@ -13,7 +13,9 @@ Nutshell.setOptions({
 why r u here bruh -_-
 
 ## : open dis (for *arctic foxes*)
-[***help me***](https://anins1der.github.io/blog/smiley/)
+why i said it like this lol
+
+anyways, here is [**the** ***message***](https://anins1der.github.io/blog/smiley/)
 
 ## : best frends (who even cares):
 
