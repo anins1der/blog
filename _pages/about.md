@@ -19,4 +19,4 @@ has depression (no joke) and probably becoming schizophrenic
 
 **doesnt want to be alive**
 
-trying to make other people be happy
+trying to make other people be happy (looks like it failed, sorry.)
