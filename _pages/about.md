@@ -13,7 +13,7 @@ info:
 
 14yo
 
-interested in ~~*coding~~, web development (kinda) and drawing smol stuff
+interested in ~~*coding*~~, web development (kinda) and drawing smol stuff
 
 has depression (no joke) and probably becoming schizophrenic
 
