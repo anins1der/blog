@@ -2,16 +2,16 @@
 permalink: /about/
 title: "about"
 ---
-<script src="https://cdn.jsdelivr.net/gh/ncase/nutshell/nutshell.min.js"></script>
+<script src='https://cdn.jsdelivr.net/gh/ncase/nutshell/nutshell.js'></script>
 <script>
 Nutshell.setOptions({
     dontEmbedHeadings: true,
 });
 </script>
 
-info:
+: info:
 
-14yo
+~~14yo~~ 15yo!
 
 interested in ~~*coding*~~, web development (kinda) and drawing smol stuff
 
