@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: im booooored
+title: "im booooored (deprecated)
 email: "nuh uh"
-description: "🎵im just a boooored guy who experiements about web development🎵"
+description: "use neocities. it is more fun"
 twitter_username: "i don't use it lol"
 github_username: "anins1der"
 minimal_mistakes_skin: dark
@@ -26,7 +26,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 1 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -77,6 +77,9 @@ footer:
     - label: "github (yaaaay -_-)"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/anins1der"
+    - label: "neocities profile"
+      icon:  "fa-solid fa-cat"
+      url: "https://neocities.org/site/anins1der"
 
 defaults:
   # _posts

@@ -9,7 +9,7 @@ Nutshell.setOptions({
 });
 </script>
 
-: info:
+info:
 
 ~~14yo~~ 15yo!
 
